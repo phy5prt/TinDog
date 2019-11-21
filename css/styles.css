@@ -11,7 +11,7 @@
   position:relative;
   top:20%;
 */
-  animation: takeDrink 3s linear infinite;
+  /* animation: takeDrink 3s linear infinite; */
 }
 @keyframes takeDrink {
   /*if set position it cant go over the top of the table*/
